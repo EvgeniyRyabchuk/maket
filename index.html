@@ -58,7 +58,7 @@
 })(window);
 </script>
 <link href='/assets/default/production/styles.12f01a526613eb513295beed85fb653e.css' type='text/css' rel='stylesheet'>
-<link href='/assets/default/production/client.31d6cfe0d16ae931b73c59d7e0c089c0.css' type='text/css' rel='stylesheet'>
+<!-- <link href='/assets/default/production/client.31d6cfe0d16ae931b73c59d7e0c089c0.css' type='text/css' rel='stylesheet'> -->
 <link href='/style.css' type='text/css' rel='stylesheet'>
 
 <script src="/globals.js/index.html@version=e665e39502cdc5b3cf42947015094586.js"></script>
@@ -459,6 +459,19 @@
                             <!-- changes -->
                             <script>
                                 window.onload = () => {
+
+                                    const product_menu = document.querySelectorAll('.products-menu');
+                                    product_menu.forEach(f => f.addEventListener('mouseenter', function() {
+                                                var div = f.querySelector('.productsMenu-submenu');
+                                                div.classList.add('__visible'); 
+                                                // div.classList.remove('show');
+                                        // this.querySelector('div').classList.add('show')
+                                    }))
+                                    product_menu.forEach(f => f.addEventListener('mouseleave', function() {
+                                                var div = f.querySelector('.productsMenu-submenu');
+                                                div.classList.remove('__visible');  
+                                    }))
+/*
                                     const containers = document.querySelectorAll('.productsMenu-tabs-list__tab');
 
                                     containers.forEach(f => f.addEventListener('mouseenter', function() {
@@ -468,21 +481,21 @@
                                         // this.querySelector('div').classList.add('show')
                                     }))
 
-                                        containers.forEach(f => f.addEventListener('mouseleave', function() {
-                                                    var div = f.querySelector('.productsMenu-submenu-w');
-                                                    div.classList.remove('__visible');
-                                                    // div.classList.remove('show');
-                                            // this.querySelector('div').classList.add('show')
-                                        }))
-
+                                    containers.forEach(f => f.addEventListener('mouseleave', function() {
+                                                var div = f.querySelector('.productsMenu-submenu-w');
+                                                div.classList.remove('__visible');
+                                                // div.classList.remove('show');
+                                        // this.querySelector('div').classList.add('show')
+                                    }))
+*/
                                     // containers.forEach(f => f.removeEventListener('mouseenter'));
                                     // containers.forEach(f => f.removeEventListener('mouseleave'));
                                     // productsMenu-submenu-w
                                 }
                             </script>
                             
-                            <div class="products-menu j-products-menu">
-                                <div class="products-menu__item j-submenu-item">
+                            <div class="products-menu j-products-menu is-active"> 
+                                <div class="products-menu__item j-submenu-item __hover">
                                     <div class="products-menu__head">
                                         <div class="products-menu__button j-productsMenu-toggleButton">
                                             Каталог <svg class="icon icon--arrow-down-light">
@@ -492,7 +505,7 @@
                                     </div>
                                     <div class="productsMenu-submenu __fluidGrid __visible" style="width: 1000px;">
                                         <div class="productsMenu-tabs">
-                        
+                                            
                                             <div class="productsMenu-tabs-switch" style="width: auto;">
                                                 <ul class="productsMenu-tabs-list" style="display: flex; flex-wrap: wrap;">
                                                     <li class="productsMenu-tabs-list__tab">
@@ -1159,18 +1172,13 @@
                                                         /* flex-grow: 1; */
                                                         min-width: 100px;
                                                         width: 300px;
-                                                        margin: 5px;
+                                                        margin: 10px;
                                                     }
 
                                                     .productsMenu-submenu-w {
                                                         width: auto !important;
-                                                       
                                                     }
 
-                                                    .__visible {
-                                                       
-                                                        /* height: auto; */
-                                                    }
                                             
                                                     .productsMenu-tabs-content {
                                                         display: block;
@@ -1187,13 +1195,17 @@
 
                                                     .__visible {
                                                         display: block;
-                                                        padding: 8px !important;
+                                                        /* padding: 8px !important; */
                                                         /* opacity: 1; */
                                                         /* transition:  opacity 1s linear; */
                                                     }
                                                     .productsMenu-submenu-i {
                                                         width: 100%;
                                                         padding: 5px !important;
+                                                    }
+                                                    .productsMenu-tabs {
+                                                        max-height: 70vh;
+                                                        overflow-y: auto;
                                                     }
                                                 </style>
                                             </div>
@@ -2246,7 +2258,7 @@
     </section>
 
     <div id="modal-overlay" class="overlay"></div>
-    <script src='/bundles/default/production/main-2b4841d6.d2f14e0390f66b94a2b1.js'></script>
+    <!-- <script src='/bundles/default/production/main-2b4841d6.d2f14e0390f66b94a2b1.js'></script>
     <script src='/bundles/default/production/runtime.81af93c644b99b99d27e.js'></script>
     <script src='/bundles/default/production/npm.spritespin.ae06fb361a59b14f6252.js'></script>
     <script src='/bundles/default/production/npm.inputmask.711c890d9833df84dc83.js'></script>
@@ -2262,7 +2274,7 @@
     <script src='/bundles/default/production/main-5ae6720c.ac7652bbe2552d46a5d5.js'></script>
     <script src='/bundles/default/production/main-886f090d.998d71870c275b9cbf2a.js'></script>
     <script src='/bundles/default/production/main-47f80845.cd90b100a18fced03795.js'></script>
-    <script src='/bundles/default/production/npm.jquery-b59a2ec2.c32010b03ac8c4e981f5.js'></script>
+    <script src='/bundles/default/production/npm.jquery-b59a2ec2.c32010b03ac8c4e981f5.js'></script> -->
 
     <script>
         (function (w) {
