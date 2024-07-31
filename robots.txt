@@ -1,0 +1,3 @@
+User-agent: *
+    Disallow: *
+    Sitemap: http://shop335836.horoshop.ua/sitemap.xml

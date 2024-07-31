@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# product: http://ogp.me/ns/product#">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Авторизируетесь</title>
+    <meta name="viewport" content="width=device-width">
+    
+<script>
+(function (w) {
+    w.GLOBAL = {
+        SYSTEM_LANGUAGE: 1,
+        FIRST_LANGUAGE: 3,
+        DOMAIN: "shop335836.horoshop.ua",
+        SITE_NAME: "Злий Борсук",
+        URI_PREFIX: "/ru/",
+        URI_SUFFIX: "/",
+        theme: "horoshop_default",
+        currency: {"id":"1","i18n_language":"0","title":"UAH","abbr":" грн","position":"2","sortorder":"1","iso":"UAH","abbr_penny":"коп.","enabled_in_front":"1","sign":"₴"},
+        round_to: "0",
+        isGuest: true,
+        USER_ID: null,
+        open_cart_on_add: true,
+        cart_animation: false,
+        phone_mask: "+38 (099) 999-99-99",
+        use_countries: false,
+        enable_phone_mask_on_input: true,
+        marketingEvents: {"cart_creation":[],"cart_product_add":[],"cart_product_update":[],"cart_product_remove":[],"quick_search":[],"checkout_success":[],"newsletter_subscription":[],"callback_submit":[],"registration_success":[],"authorization_success":[],"ajax_page_view":[],"add_to_wishlist":[]},
+        content_copy_protection: false,
+        GLOBAL_CSRF_TOKEN: '450681295fbbf6e9211c31c8ce12e0b145e7b3b5'
+    };
+    w.dataLayer = w.dataLayer || [];
+})(window);
+</script>
+<link href='/assets/default/production/styles.12f01a526613eb513295beed85fb653e.css' type='text/css' rel='stylesheet'>
+<link href='/assets/default/production/client.31d6cfe0d16ae931b73c59d7e0c089c0.css' type='text/css' rel='stylesheet'>
+    <script src="/ru/globals.js/?version=5283b8141baa79362bc7a4527e0d9fb2"></script>
+
+<script src='/assets/cache/horoshop_default_main.js?1718262145'></script>
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <script>
+  (function (window, document) {
+    'use strict';
+
+    var file = '/frontend/themes/horoshop_default/layout/img/icons-default.svg',
+      revision = '4a6499ea67c73b6c12f10fc608ba45b7';
+
+    var isLocalStorage = 'localStorage' in window && window['localStorage'] !== null,
+      request,
+      data,
+      insertIT = function () {
+        var template = document.createElement('template');
+
+        template.innerHTML = data;
+        document.body.prepend(template.content.firstChild);
+      },
+      insert = function()
+      {
+          if( document.body ) insertIT();
+          else document.addEventListener( 'DOMContentLoaded', insertIT );
+      };
+
+    if (isLocalStorage && localStorage.getItem('inlineSVGrev') === revision) {
+      data = localStorage.getItem('inlineSVGdata');
+
+      if (data) {
+        insert();
+        return true;
+      }
+    }
+
+    try {
+      request = new XMLHttpRequest();
+      request.open('GET', file, true);
+      request.onload = function () {
+        if (request.status >= 200 && request.status < 400) {
+          data = request.responseText;
+          insert();
+          if (isLocalStorage) {
+            localStorage.setItem('inlineSVGdata', data);
+            localStorage.setItem('inlineSVGrev', revision);
+          }
+        }
+      }
+      request.send();
+    } catch (e) {
+    }
+
+  }(window, document));
+</script></head>
+<body class="security-page">
+<main class="wrapper">
+    <div class="security-page__content">
+        <div class="security-page__logo">
+        <a href="/ru/">
+            <img alt='Злий Борсук - Производитель военного снаряжения'  class='security-page__logo-img' width='200' height='93' src='/content/images/2/200x93l90nn0/62133988145328.jpg'  srcset="
+                /content/images/2/200x93l90nn0/62133988145328.jpg 1x,
+                /content/images/2/400x185l50nn0/62133988145328.jpg 2x
+                ">        </a>
+    </div>
+<div id="auth_forms" class="security-page__forms">
+    <div class="login-header">
+        <div class="login-tabs j-auth-tabs">
+            <a href="#j-popup-tab-auth" class="login-tabs-i __active">
+                <span class="login-tabs-txt">Вход</span>
+            </a>
+            <a href="#j-popup-tab-signup" class="login-tabs-i">
+                <span class="login-tabs-txt">Регистрация</span>
+            </a>
+        </div>
+        <div class="socLogin">
+    <div class="socLogin-h">Войти с помощью</div>
+    <div class="socLogin-b">
+                                                <a rel="nofollow"
+                   data-fake-href="/ru/security/OAuthRedirect/?soc=facebook&saveCart=0"
+                   onclick="OAuth.setScenario('default'); showPopup(this.href, 997, 490); return false;"
+                   class="socialIcon">
+                    <svg class="icon icon--fb">
+                        <use xlink:href="#icon-fb"></use>
+                    </svg>
+                </a>
+                                                                                                <a rel="nofollow"
+                   data-fake-href="/ru/security/OAuthRedirect/?soc=google&saveCart=0"
+                   onclick="OAuth.setScenario('default'); showPopup(this.href, 997, 490); return false;"
+                   class="socialIcon">
+                    <svg class="icon icon--gp">
+                        <use xlink:href="#icon-gp"></use>
+                    </svg>
+                </a>
+                                    </div>
+</div>    </div>
+
+    <div class="login-body">
+        <div class="login-tabs-content" data-content-id="j-popup-tab-auth">
+            <form method="post" id="login_form_id" data-action="/ru/security/login/" onsubmit="submit_authorization(this); return false;">
+    <div class="j-login-info-message"></div>
+    <dl class="form">
+        <dt class="form-head">Эл. почта</dt>
+        <dd class="form-item">
+            <input type="email" name="user[email]" class="field j-focus" tabindex="1" autocapitalize="off">
+        </dd>
+        <dt class="form-head">Пароль</dt>
+        <dd class="form-item">
+            <input type="password" name="user[pass]" class="field" tabindex="2">
+        </dd>
+        <dd class="form-item __submit">
+            <span class="btn __special">
+                <span class="btn-content">Войти</span>
+                <input type="submit" value="Войти" class="btn-input" tabindex="3">
+            </span>
+            <span class="form-passRecover">
+                <a
+                    href="javascript:void(0);"
+                    class="a-pseudo"
+                    data-modal="#password-recovery"
+                >
+                    Забыли пароль?                </a>
+            </span>
+        </dd>
+    </dl>
+    <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("16425ad06c25662d76ca84cd65b1bd6a6f9dd1bd");$("#login_form_id").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script></form>        </div>
+
+        <div class="login-tabs-content" data-content-id="j-popup-tab-signup">
+            <form method="post" id="signup-form" data-action="/ru/security/sign_up/" onsubmit="submit_new_registration(this); return false;" novalidate>
+    <div class="j-signup-info-message"></div>
+    <dl class="form">
+        <dt class="form-head __name">Имя и фамилия</dt>
+        <dd class="form-item">
+            <input type="text" name="user[title]" class="field" value="" tabindex="1">
+        </dd>
+        <dt class="form-head">Эл. почта</dt>
+        <dd class="form-item">
+            <input type="text" autocapitalize="off" name="user[email]" class="field" value="" tabindex="2">
+        </dd>
+                <dt class="form-head">Пароль</dt>
+        <dd class="form-item">
+            <input type="password" name="user[pass]" class="field" value="" tabindex="3">
+        </dd>
+                <dd class="form-item __submit">
+                                    <span class="btn __special j-submit ">
+                <span class="btn-content">Зарегистрироваться</span>
+                <input type="submit" value="Зарегистрироваться" class="btn-input" tabindex="7">
+            </span>
+                                                </dd>
+    </dl>
+    <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("808cadc1fbd48828fdab206dc748a1a151d78644");$("#signup-form").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script></form>
+
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+          }, w.Face)
+  })(window);
+</script>
+        </div>
+    </div>
+</div>
+
+<script>
+  (function(w) {
+    w.INIT.add(function() {
+      initTabs('#auth_forms .j-auth-tabs a', {
+         onChange: function (currentBtn, currentTabContainer, tabContainers) {
+           $(tabContainers).find('.popup-msg').empty();
+           $(tabContainers).find('form').reset();
+           $(currentTabContainer).find(':input').errorBox().filter(':first').focus();
+         }
+       });
+    }, w.initTabs)
+  })(window);
+</script>
+
+<section id="password-recovery" class="popup __password" style="display: none;">
+    <div class="popup-block login">
+        <a class="popup-close" onclick="Modal.close();" href="javascript:;">
+            <svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg>
+        </a>
+        <div class="popup-header">
+            <div class="popup-title">Восстановление пароля</div>
+        </div>
+        <div class="popup-body">
+            <div class="popup-msg j-recovery-message">
+                Введите адрес электронной почты, который вы указывали при регистрации. Мы отправим письмо с информацией для восстановления пароля.            </div>
+            <form id="password-recovery-form" method="post"
+      data-action="/ru/security/password-recovery/"
+      onsubmit="password_recovery_submit(this); return false;">
+    <dl class="form">
+        <dt class="form-head">Эл. почта</dt>
+        <dd class="form-item">
+            <input type="email" autocapitalize="off" value="" class="field j-focus" name="user[email]">
+        </dd>
+        <dd class="form-item __submit">
+                            <span class="btn __special">
+                                <span class="btn-content">Восстановить</span>
+                                <input type="submit" value="Восстановить" class="btn-input">
+                            </span>
+        </dd>
+    </dl>
+    <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("7ae9c3b81d448a4c72e131af9179add116a887c9");$("#password-recovery-form").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script></form>        </div>
+    </div>
+</section>    </div>
+</main>
+
+<script src='/bundles/default/production/main-2b4841d6.d2f14e0390f66b94a2b1.js'></script>
+<script src='/bundles/default/production/runtime.81af93c644b99b99d27e.js'></script>
+<script src='/bundles/default/production/npm.spritespin.ae06fb361a59b14f6252.js'></script>
+<script src='/bundles/default/production/npm.inputmask.711c890d9833df84dc83.js'></script>
+<script src='/bundles/default/production/npm.jquery-13d81934.3f02b0283ddee7920906.js'></script>
+<script src='/bundles/default/production/npm.sticky-sidebar.9b1aed998b438a0502a9.js'></script>
+<script src='/bundles/default/production/npm.sourcebuster.190de06c3cb5f9541d9a.js'></script>
+<script src='/bundles/default/production/npm.popper.js.46626cd1331d2ebd1e93.js'></script>
+<script src='/bundles/default/production/npm.css-element-queries.e72e021709f421f869d0.js'></script>
+<script src='/bundles/default/production/main-44867c3a.6bc16e180baeaa05e8e0.js'></script>
+<script src='/bundles/default/production/main-e498c03b.e99d23ecfb4276b4b94f.js'></script>
+<script src='/bundles/default/production/main-12f89153.c4078d0f6e3f24171a12.js'></script>
+<script src='/bundles/default/production/main-2d8f051b.95225d1c6f77100fe2c2.js'></script>
+<script src='/bundles/default/production/main-5ae6720c.ac7652bbe2552d46a5d5.js'></script>
+<script src='/bundles/default/production/main-886f090d.998d71870c275b9cbf2a.js'></script>
+<script src='/bundles/default/production/main-47f80845.cd90b100a18fced03795.js'></script>
+<script src='/bundles/default/production/npm.jquery-b59a2ec2.c32010b03ac8c4e981f5.js'></script>
+
+<script>
+  (function (w) {
+    w.INIT.execute();
+  })(window)
+</script>
+<div id="modal-overlay" class="overlay"></div>
+</body>
+
+</html>

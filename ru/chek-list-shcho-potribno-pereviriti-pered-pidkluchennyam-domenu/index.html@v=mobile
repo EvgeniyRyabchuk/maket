@@ -1,0 +1,1480 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns# article: https://ogp.me/ns/article#" lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <title>Чек-лист: что нужно проверить перед подключением домена | Злий Борсук</title>
+<meta name="robots" content="all">
+<meta name="description" content="【Интернет-магазин Злий Борсук】— Чек-лист: что нужно проверить перед подключением домена">
+<link rel="canonical" href="http://shop335836.horoshop.ua/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/">
+<link rel="alternate" hreflang="uk" href="http://shop335836.horoshop.ua/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/">
+<link rel="alternate" hreflang="ru" href="http://shop335836.horoshop.ua/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/">
+    <meta property="og:locale" content="ru_RU">
+<meta property="og:site_name" content="Злий Борсук - Производитель военного снаряжения">
+<meta property="og:title" content="Чек-лист: что нужно проверить перед подключением домена">
+<meta property="og:url" content="http://shop335836.horoshop.ua/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/">
+<meta property="og:description" content="При подключении рабочего домена к сайту удаляется тестовый домен, снимается блокировка индексации сайта. Сайт становится доступным для поисковых роботов и посетителей из поисковых систем. Поэтому важно убедиться в корректности всех базовых настрое...">
+<meta property="og:image" content="http://shop335836.horoshop.ua/content/images/36/1200x400e80nn0/macbook-polnostu-novyy-komputer-ot-apple-97926869982694.jpg">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2022-05-26T00:00:00+03:00">
+<meta property="article:modified_time" content="2022-05-26T00:00:00+03:00">
+<meta property="article:section" content="Блог">
+    <link rel='preload' as='image' href='/content/images/36/1200x400e80nn0/macbook-polnostu-novyy-komputer-ot-apple-49117614927244.jpg'>    
+<script>
+(function (w) {
+    w.GLOBAL = {
+        SYSTEM_LANGUAGE: 1,
+        FIRST_LANGUAGE: 3,
+        DOMAIN: "shop335836.horoshop.ua",
+        SITE_NAME: "Злий Борсук",
+        URI_PREFIX: "/ru/",
+        URI_SUFFIX: "/",
+        theme: "horoshop_default",
+        currency: {"id":"1","i18n_language":"0","title":"UAH","abbr":" грн","position":"2","sortorder":"1","iso":"UAH","abbr_penny":"коп.","enabled_in_front":"1","sign":"₴"},
+        round_to: "0",
+        isGuest: true,
+        USER_ID: null,
+        open_cart_on_add: true,
+        cart_animation: false,
+        phone_mask: "+38 (099) 999-99-99",
+        use_countries: false,
+        enable_phone_mask_on_input: true,
+        marketingEvents: {"cart_creation":[],"cart_product_add":[],"cart_product_update":[],"cart_product_remove":[],"quick_search":[],"checkout_success":[],"newsletter_subscription":[],"callback_submit":[],"registration_success":[],"authorization_success":[],"ajax_page_view":[],"add_to_wishlist":[]},
+        content_copy_protection: false,
+        GLOBAL_CSRF_TOKEN: '98289a3d37163363c28f74d53f7157f9612b6d29'
+    };
+    w.dataLayer = w.dataLayer || [];
+})(window);
+</script>
+<link href='/assets/default/production/styles.12f01a526613eb513295beed85fb653e.css' type='text/css' rel='stylesheet'>
+<link href='/assets/default/production/client.31d6cfe0d16ae931b73c59d7e0c089c0.css' type='text/css' rel='stylesheet'>
+    <script src="/ru/globals.js/?version=5283b8141baa79362bc7a4527e0d9fb2"></script>
+
+<script src='/assets/cache/horoshop_default_main.js?1718262145'></script>
+
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <script>
+  (function (window, document) {
+    'use strict';
+
+    var file = '/frontend/themes/horoshop_default/layout/img/icons-default.svg',
+      revision = '4a6499ea67c73b6c12f10fc608ba45b7';
+
+    var isLocalStorage = 'localStorage' in window && window['localStorage'] !== null,
+      request,
+      data,
+      insertIT = function () {
+        var template = document.createElement('template');
+
+        template.innerHTML = data;
+        document.body.prepend(template.content.firstChild);
+      },
+      insert = function()
+      {
+          if( document.body ) insertIT();
+          else document.addEventListener( 'DOMContentLoaded', insertIT );
+      };
+
+    if (isLocalStorage && localStorage.getItem('inlineSVGrev') === revision) {
+      data = localStorage.getItem('inlineSVGdata');
+
+      if (data) {
+        insert();
+        return true;
+      }
+    }
+
+    try {
+      request = new XMLHttpRequest();
+      request.open('GET', file, true);
+      request.onload = function () {
+        if (request.status >= 200 && request.status < 400) {
+          data = request.responseText;
+          insert();
+          if (isLocalStorage) {
+            localStorage.setItem('inlineSVGdata', data);
+            localStorage.setItem('inlineSVGrev', revision);
+          }
+        }
+      }
+      request.send();
+    } catch (e) {
+    }
+
+  }(window, document));
+</script>                            </head>
+<body class=" ru-RU" itemscope itemtype="https://schema.org/WebPage">
+            
+    <div class="session-messages" id="j-sm" style="display:none;"></div>
+    <div class="container">
+                <div class="header">
+    <div class="header__container">
+                <div class="header__middle">
+            <div class="header__wrapper">
+                <div class="header__layout header__layout--middle">
+                                            <div class="header__column header__column--left header__column--side">
+                                                            <div class="header__section header__section--contacts">
+    <div class="phones phones--header phones--dropdown">
+        <div class="phones__container">
+                            <div class="phones__icon-down">
+                    <svg class="icon icon--arrow-down-light">
+                        <use xlink:href="#icon-arrow-down-light"></use>
+                    </svg>
+                </div>
+                        <div class="phones__item phones__item--first">
+                                                            <svg class="icon icon--phone">
+                            <use xlink:href="#icon-phone"></use>
+                        </svg>
+                                                    <a data-fake-href="tel:%2B380440000000" class="phones__item-link j-phone-item" data-index="1">
+                    044 000-00-00                </a>
+            </div>
+            <div class="phones__dropdown">
+                <div class="phones__list">
+                                                                                            <div class="phones__item">
+                                                                                                <svg class="icon icon--mts">
+                                        <use xlink:href="#icon-mts"></use>
+                                    </svg>
+                                                                                        <a data-fake-href="tel:%2B380950000000" class="phones__item-link j-phone-item" data-index="2">
+                                095 000-00-00                            </a>
+                        </div>
+                                    </div>
+                                    <div class="phones__callback"><a class="phones__callback-link" href="#" data-modal="#call-me">Перезвонить вам?</a></div>
+                    <section id="call-me" class="popup __password" style="display: none;">
+    <div class="popup-block login">
+        <a class="popup-close" onclick="Modal.close();" href="javascript:;">
+            <svg class="icon icon--cross">
+                <use xlink:href="#icon-cross"></use>
+            </svg>
+        </a>
+        <div class="popup-header">
+            <div class="popup-title">Перезвонить вам?</div>
+        </div>
+        <div class="popup-body j-text">
+            <div
+                class="popup-msg j-callback-message">Укажите ваш номер телефона и имя. Мы свяжемся с вами в ближайшее время.</div>
+            <form method="post" data-action="/ru/_widget/contacts/submit-callback/">
+                <dl class="form">
+                    <dt class="form-head">Имя</dt>
+                    <dd class="form-item">
+                        <input
+                            type="text"
+                            value=""
+                            class="field j-focus" name="form[title]"
+                        >
+                    </dd>
+                    <dt class="form-head">Телефон</dt>
+                    <dd class="form-item">
+                        <input type="text" value="" class="field j-phone"
+                               name="form[phone]">
+                        <input type="hidden" value="/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/" name="form[url]">
+                    </dd>
+                    <dd class="form-item __submit">
+                        <span class="btn __special">
+                            <span class="btn-content">Отправить</span>
+                            <input type="submit" value="Отправить" class="btn-input">
+                        </span>
+                    </dd>
+                </dl>
+                <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("b845a5a054fac4af10011671244aba71bf5c99cd");$("#call-me form").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script>            </form>
+        </div>
+    </div>
+</section>
+<script>
+    (function (w) {
+        w.INIT.add(function () {
+            ActiveForm.init($('#call-me').find('form'), {
+                'submitSuccess': function (response) {
+                    $('#call-me').find('.j-text').html(response.message);
+                    triggerMarketingEvent('callback_submit', [null, response.eventId]);
+                }
+            }, 'form');
+        }, w.ActiveForm)
+    })(window);
+</script>                                            </div>
+        </div>
+    </div></div>                                                            <div class="header__section">
+    <div class="lang-menu" data-widget="lang_menu" data-skin="header_bottom-dropdown" data-show-icon="">
+        <div class="lang-menu__button">
+                        Рус            <svg class="icon icon--arrow-down-light">
+                <use xlink:href="#icon-arrow-down-light"></use>
+            </svg>
+        </div>
+        <div class="lang-menu__dropdown">
+            <ul class="lang-menu__menu">
+                                                            <li class="lang-menu__item">
+                            <a
+                                                                href="/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/"
+                                class="lang-menu__link"
+                            >
+                                Укр                            </a>
+                        </li>
+                                                                                    </ul>
+        </div>
+    </div>
+    <script>
+      (function (w) {
+        w.INIT.add(function () {
+          $('.lang-menu__dropdown').dropdown({
+            trigger: '.lang-menu__button',
+            parentNode: null,
+            visibleClass: 'is-visible',
+            hoverClass: 'is-hover'
+          });
+        }, w.$)
+      })(window);
+    </script></div>                                                    </div>
+                                                                                    <div class="header__column header__column--center">
+                                                            <div class="header__section">
+    <div class="header__logo header__logo--fixed">
+                    <a class="header__logo-link" href='/ru/'>
+                <img alt='Злий Борсук - Производитель военного снаряжения'  class='header-logo-img' width='200' height='93' src='/content/images/2/200x93l90nn0/62133988145328.jpg'  
+                                    srcset="
+                                    /content/images/2/200x93l90nn0/62133988145328.jpg 1x,
+                                    /content/images/2/400x185l50nn0/62133988145328.jpg 2x
+                                    ">            </a>
+            </div></div>                                                    </div>
+                                                                <div class="header__column header__column--right header__column--side">
+                                                            <div class="header__section">
+    <div class="favorites-view" id="uidd631773bd74d5b8c74e433d67d99419f">
+        <a href="/ru/profile/favorites/" class="favorites-view__button j-favorite-link is-disabled">
+            <div class="favorites-view__icon">
+                <svg class="icon icon--heart"><use xlink:href="#icon-heart"></use></svg>
+                <span class="favorites-view__count j-count" style="display: none;">0</span>
+            </div>
+        </a>
+        <div class="favorites-view__tooltip" >Добавьте товары в желания</div>
+    </div>
+
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      var container = $('#uidd631773bd74d5b8c74e433d67d99419f'),
+          allow = false,
+          link = container.find('.j-favorite-link'),
+          count = container.find('.j-count'),
+          tooltip = container.find('.j-tooltip');
+
+      link.off('click').on('click', function (e) {
+        if ($(this).hasClass('is-disabled')) {
+          e.preventDefault();
+        }
+
+      });
+      FavoritesList.attachEventHandlers({
+        onChange: function () {
+          var countVal = this.count * 1;
+          allow = countVal !== 0;
+          if (countVal === 0) {
+            link.addClass('is-disabled');
+            tooltip.show();
+            count.hide();
+          } else {
+            link.removeClass('is-disabled');
+            tooltip.hide();
+            count.show();
+          }
+          count.html(countVal);
+        }
+      });
+      $(function() {
+        $('.favorites-view__tooltip').dropdown({
+          trigger: '.favorites-view__button',
+          visibleClass: 'is-visible',
+          hoverClass: 'is-hover'
+        });
+      })
+    }, w.FavoritesList)
+  })(window);
+</script></div>                                                            <div class="header__section">
+    <div class="comparison-view" id="uid0276ead8100445c7890ed85a8f43ffd3">
+    <a href="#" class="comparison-view__button j-compare-link  is-disabled a" title="Сравнение">
+        <div class="comparison-view__icon">
+            <svg class="icon icon--round-checkbox"><use xlink:href="#icon-round-checkbox"></use></svg>
+            <span class="comparison-view__count j-count" style="display: none;">0</span>
+        </div>
+    </a>
+    <div class="comparison-view__tooltip j-tooltip" >Добавьте товары для сравнения</div>
+</div>
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      var container = $('#uid0276ead8100445c7890ed85a8f43ffd3'),
+          allow = false,
+          link = container.find('.j-compare-link'),
+          count = container.find('.j-count'),
+          tooltip = container.find('.j-tooltip');
+      link.off('click').on('click', function () {
+        allow && ComparisonTable.getInstance() && ComparisonTable.getInstance().openModal();
+
+        return false;
+      });
+      ComparisonList.attachEventHandlers({
+        onChange: function () {
+          var countVal = this.count * 1;
+          allow = countVal !== 0;
+
+          if (countVal === 0) {
+            link.addClass('is-disabled');
+            tooltip.show();
+            count.hide();
+          } else {
+            link.removeClass('is-disabled');
+            tooltip.hide();
+            count.show();
+          }
+          count.html(countVal);
+        }
+      });
+      $(function() {
+        $('.comparison-view__tooltip').dropdown({
+          trigger: '.comparison-view__button',
+          visibleClass: 'is-visible',
+          hoverClass: 'is-hover'
+        });
+      })
+    }, w.ComparisonList && w.ComparisonTable)
+  })(window);
+</script></div>                                                            <div class="header__section">
+    <div data-widget="userbar" data-skin="header_icon">
+            <div class="userbar userbar--user-icon j-user-tabs">
+            <a class="userbar__button" data-fake-href="#j-popup-tab-auth" data-modal="#sign-in" title="Вход">
+                <svg class="icon icon--user"><use xlink:href="#icon-user"></use></svg>
+            </a>
+        </div>
+        <script>
+          (function(w) {
+            w.INIT.add(function() {
+              initTabs('.j-user-tabs a', {triggerMap: true});
+            })
+          })(window);
+        </script>
+    </div>
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      $('.userbar__dropdown').dropdown({
+        trigger: '.userbar__button',
+        visibleClass: 'is-visible',
+        hoverClass: 'is-hover'
+      });
+    }, w.$)
+  })(window);
+</script></div>                                                            <div class="header__section">
+    <div class="basket is-empty" data-widget="mini_cart" data-skin="header" data-icon="basket" data-elements="iconPlus">
+
+        <div class="basket__icon basket__icon--basket j-basket-icon">
+            <svg class="icon icon--basket"><use xlink:href="#icon-basket"></use></svg>
+            <div class="basket__items">0</div>
+        </div>
+                    <div class="basket__contents">
+                <div class="basket__title">Мой заказ</div>
+            </div>
+        
+    </div></div>                                                    </div>
+                                    </div>
+            </div>
+        </div>
+                    <div class="header__bottom">
+                <div class="header__wrapper">
+                    <div class="header__layout header__layout--bottom">
+                                                                            <div class="header__column header__column--center ">
+                                                                    <div class="header__section header__section--catalog-menu">
+    <div class="products-menu j-products-menu">
+    <div class="products-menu__item j-submenu-item">
+        <div class="products-menu__head">
+                            <div class="products-menu__button j-productsMenu-toggleButton">
+                    Каталог                    <svg class="icon icon--arrow-down-light">
+                        <use xlink:href="#icon-arrow-down-light"></use>
+                    </svg>
+                </div>
+                    </div>
+                    <div class="productsMenu-submenu __fluidGrid">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                    <div class="productsMenu-tabs">
+                <div class="productsMenu-tabs-content">
+                                                                                                                                                                                                                                                                                                    <ul class="productsMenu-submenu-w  "  id="menu-tab-1087">
+                                                                   <li class="productsMenu-submenu-i ">
+                                         <a class="productsMenu-submenu-a" href="/ru/1-rizhok/">
+                                                                                        <span class="productsMenu-submenu-t">1 рожок</span>
+                                         </a>
+                                                                           </li>
+                                                                   <li class="productsMenu-submenu-i ">
+                                         <a class="productsMenu-submenu-a" href="/ru/2-rizhka/">
+                                                                                        <span class="productsMenu-submenu-t">2 рожка</span>
+                                         </a>
+                                                                           </li>
+                                                                   <li class="productsMenu-submenu-i ">
+                                         <a class="productsMenu-submenu-a" href="/ru/3-rizhka/">
+                                                                                        <span class="productsMenu-submenu-t">3 рожка</span>
+                                         </a>
+                                                                           </li>
+                                                            </ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                <div class="productsMenu-tabs-switch">
+                    <ul class="productsMenu-tabs-list">
+                                                    <li class="productsMenu-tabs-list__tab  __hover">
+                                <a href="/ru/napashnyky/" data-target="menu-tab-1086" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Напашники' title=''  width='50' height='50' src='/content/images/37/50x50l80nn0/30594446137938.jpg'  srcset="/content/images/37/120x120l99nn0/30594446137938.jpg 2x">                                            </div>
+                                                                                                                Напашники                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/medychni-pidsumky/" data-target="menu-tab-1091" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Медицинские подсумки' title=''  width='50' height='50' src='/content/images/42/50x50l80nn0/16290336636400.jpg'  srcset="/content/images/42/120x120l99nn0/16290336636400.jpg 2x">                                            </div>
+                                                                                                                Медицинские подсумки                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/plytonosky-plate-carrier/" data-target="menu-tab-1083" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Плитоноски Plate Carrier' title=''  width='50' height='50' src='/content/images/34/50x50l80nn0/56876788997848.jpg'  srcset="/content/images/34/120x120l99nn0/56876788997848.jpg 2x">                                            </div>
+                                                                                                                Плитоноски Plate Carrier                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/reminno-plechovi-systemy/" data-target="menu-tab-1085" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Ременно-плечевые системы' title=''  width='50' height='50' src='/content/images/36/50x50l80nn0/80535888783170.jpg'  srcset="/content/images/36/120x120l99nn0/80535888783170.jpg 2x">                                            </div>
+                                                                                                                Ременно-плечевые системы                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/komplekty-sporiadzhennia/" data-target="menu-tab-1084" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Комплекты снаряжения' title=''  width='31' height='50' src='/content/images/35/31x50l80nn0/99720628894336.jpg'  srcset="/content/images/35/75x120l99nn0/99720628894336.jpg 2x">                                            </div>
+                                                                                                                Комплекты снаряжения                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/pidsumky-pid-mahazyny/" data-target="menu-tab-1087" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Подсумки под магазины' title=''  width='50' height='50' src='/content/images/38/50x50l80nn0/74763263497078.jpg'  srcset="/content/images/38/120x120l99nn0/74763263497078.jpg 2x">                                            </div>
+                                                                                                                Подсумки под магазины                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/sumky-skydannia-mahazyniv/" data-target="menu-tab-1092" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Сумки сброса магазинов' title=''  width='50' height='50' src='/content/images/43/50x50l80nn0/29228337856920.jpg'  srcset="/content/images/43/120x120l99nn0/29228337856920.jpg 2x">                                            </div>
+                                                                                                                Сумки сброса магазинов                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/sumky-dlia-planshetiv/" data-target="menu-tab-1096" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Сумки для планшетов' title=''  width='50' height='50' src='/content/images/47/50x50l80nn0/50753713634716.jpg'  srcset="/content/images/47/120x120l99nn0/50753713634716.jpg 2x">                                            </div>
+                                                                                                                Сумки для планшетов                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/orhanaizery-ta-utylitarni-pidsumky/" data-target="menu-tab-1090" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Органайзеры и утилитарные подсумки' title=''  width='50' height='50' src='/content/images/41/50x50l80nn0/25253214777699.jpg'  srcset="/content/images/41/120x120l99nn0/25253214777699.jpg 2x">                                            </div>
+                                                                                                                Органайзеры и утилитарные подсумки                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/sumky-ta-riukzaky/" data-target="menu-tab-1089" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Сумки и рюкзаки' title=''  width='50' height='50' src='/content/images/40/50x50l80nn0/15209453426312.jpg'  srcset="/content/images/40/120x120l99nn0/15209453426312.jpg 2x">                                            </div>
+                                                                                                                Сумки и рюкзаки                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/pidsumky-pid-ratsii-ta-telefony/" data-target="menu-tab-1094" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Подсумки под рации и телефоны' title=''  width='50' height='50' src='/content/images/45/50x50l80nn0/32881911637704.jpg'  srcset="/content/images/45/120x120l99nn0/32881911637704.jpg 2x">                                            </div>
+                                                                                                                Подсумки под рации и телефоны                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/kavery-na-kasky/" data-target="menu-tab-1097" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Каверы на каски' title=''  width='50' height='50' src='/content/images/48/50x50l80nn0/79533238229132.jpg'  srcset="/content/images/48/120x120l99nn0/79533238229132.jpg 2x">                                            </div>
+                                                                                                                Каверы на каски                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/remeni-dlia-zbroi/" data-target="menu-tab-1088" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Ремни для оружия' title=''  width='50' height='50' src='/content/images/39/50x50l80nn0/39258237763443.jpg'  srcset="/content/images/39/120x120l99nn0/39258237763443.jpg 2x">                                            </div>
+                                                                                                                Ремни для оружия                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/pidsumky-pid-hranaty/" data-target="menu-tab-1093" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Подсумки под гранаты' title=''  width='50' height='50' src='/content/images/44/50x50l80nn0/87923753580138.jpg'  srcset="/content/images/44/120x120l99nn0/87923753580138.jpg 2x">                                            </div>
+                                                                                                                Подсумки под гранаты                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/sydushky-ta-karematy/" data-target="menu-tab-1095" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Сидушки и карематы' title=''  width='50' height='50' src='/content/images/46/50x50l80nn0/90581279480101.jpg'  srcset="/content/images/46/120x120l99nn0/90581279480101.jpg 2x">                                            </div>
+                                                                                                                Сидушки и карематы                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/karabiny/" data-target="menu-tab-1100" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Карабины' title=''  width='50' height='50' src='/content/images/1/50x50l80nn0/36234304124875.jpg'  srcset="/content/images/1/120x120l99nn0/36234304124875.jpg 2x">                                            </div>
+                                                                                                                Карабины                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/nozhi/" data-target="menu-tab-1099" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Ножи' title=''  width='50' height='50' src='/content/images/50/50x50l80nn0/23466534822486.jpg'  srcset="/content/images/50/120x120l99nn0/23466534822486.jpg 2x">                                            </div>
+                                                                                                                Ножи                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/miaki-balistychni-pakety/" data-target="menu-tab-1098" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Мягкие баллистические пакеты' title=''  width='50' height='50' src='/content/images/49/50x50l80nn0/26887640947725.jpg'  srcset="/content/images/49/120x120l99nn0/26887640947725.jpg 2x">                                            </div>
+                                                                                                                Мягкие баллистические пакеты                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/remeni-taktychni/" data-target="menu-tab-1102" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Ремни тактические' title=''  width='50' height='50' src='/content/images/3/50x50l80nn0/12087225783447.jpg'  srcset="/content/images/3/120x120l99nn0/12087225783447.jpg 2x">                                            </div>
+                                                                                                                Ремни тактические                                </a>
+                            </li>
+                                                    <li class="productsMenu-tabs-list__tab  ">
+                                <a href="/ru/dodatkove-sporiadzhennia/" data-target="menu-tab-1108" class="a productsMenu-tabs-list__link">
+                                                                                                                        <div class="productsMenu-tabs-list__icon">
+                                                <img alt='Дополнительное снаряжение' title=''  width='50' height='50' src='/content/images/9/50x50l80nn0/50126085149280.jpg'  srcset="/content/images/9/120x120l99nn0/50126085149280.jpg 2x">                                            </div>
+                                                                                                                Дополнительное снаряжение                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+            </div>                </div>
+</div>
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      $('.j-products-menu').productsMenu({
+        parent: $('.header__layout')
+      });
+    }, w.$)
+  })(window);
+</script></div>                                                                    <div class="header__section">
+    <nav class="site-menu j-site-menu">
+        <!--
+                            --><span class="site-menu__item"><a class="site-menu__link" href="/ru/pro-nas/">О нас</a></span><!--
+                            --><span class="site-menu__item"><a class="site-menu__link" href="/ru/oplata-i-dostavka/">Оплата и доставка</a></span><!--
+                            --><span class="site-menu__item"><a class="site-menu__link" href="/ru/obmin-ta-povernennya/">Обмен и возврат</a></span><!--
+                            --><span class="site-menu__item"><a class="site-menu__link" href="/ru/kontaktna-informatsiya/">Контактная информация</a></span><!--
+                            --><span class="site-menu__item"><a class="site-menu__link" href="/ru/optovym-kliientam/">Оптовым клиентам</a></span><!--
+        -->
+    </nav>
+    <script>
+      (function (w) {
+        w.INIT.add(function() {
+          $('.site-menu').siteMenuDropdown({
+            buttonText: "Еще",
+            wrapper: '.header__column',
+            siblings: '.header__section'
+          })
+        }, w.$)
+      })(window);
+    </script></div>                                                                    <div class="header__section header__section--search">
+    <div class="search j-search">
+    <div class="search__container">
+        <form method="get" data-action="/ru/katalog/search/">
+            <button type="submit" class="search__button j-search-button">
+                <svg class="icon icon--search"><use xlink:href="#icon-search"></use></svg>
+            </button>
+            <input class="search__input j-search-input" id="search_uid693a84383579ca76faad96a90a95b0bb" type="text" name="q" placeholder="поиск товаров" autocomplete="off" value="">
+            <button class="search__close j-search-close" type="reset">
+                <svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg>
+            </button>
+        </form>
+        <div class="search__results" id="search_uid693a84383579ca76faad96a90a95b0bb-search-results"></div>
+    </div>
+</div>
+
+<script>
+  (function (w) {
+    w.INIT.add(function() {
+      var $search = $('.search'),
+          $container = $('.search__container'),
+          $input = $('.j-search-input'),
+          $button = $('.j-search-button'),
+          $productsMenu = $('.j-products-menu'),
+          $siteMenu = $('.j-site-menu'),
+          $headerColumn = $('.header__column'),
+          query = '',
+          focused = false,
+          closeSearch = function () {
+            $search.attr('data-collapsed', true);
+            $input.removeAttr('style');
+            $container.width('100%');
+            $button.css('transform', 'translate3d(0,0,0)');
+            $search.removeClass('is-opened');
+            $input.removeClass('is-focused');
+            $button.attr('disabled', false);
+            focused = false;
+          };
+
+              init_search_widget('#search_uid693a84383579ca76faad96a90a95b0bb');
+      
+      $button.on('click', function(e) {
+        var siblingOffset = $productsMenu.length ? $productsMenu.offset()
+          : ($siteMenu.length ? $siteMenu.offset()
+          : $headerColumn.offset());
+        var expandedWidth = $search.offset().left - siblingOffset.left + $search.width();
+
+        $search.attr('data-collapsed', false);
+
+        if (!focused) {
+          $input.outerWidth(expandedWidth);
+          $container.width(expandedWidth);
+          $button.css('transform', 'translate3d(-' + ($search.offset().left - siblingOffset.left) + 'px, 0, 0)');
+          $search.addClass('is-opened');
+          $button.attr('disabled', $input.val() === '');
+          setTimeout(function() {
+            $input.focus();
+            $input.addClass('is-focused');
+          }, 200);
+
+          focused = true;
+
+          e.preventDefault();
+        }
+      });
+
+      $('body').on('mousedown', function(e) {
+        if ($(e.target).closest('.search').length ) return;
+
+        closeSearch();
+      });
+
+      $('.j-search-close').on('click', function (e) {
+        if ($input.val() !== '') {
+          $input.val('');
+          $input.focus();
+          $button.attr('disabled', true);
+        } else {
+          closeSearch();
+        }
+
+        e.preventDefault();
+      })
+    }, w.init_search_widget)
+  })(window);
+</script></div>                                                            </div>
+                                                                    </div>
+                </div>
+            </div>
+            </div>
+</div>        <main id="main" class="main">
+            <div class="wrapper">
+    <div class="layout">
+        <div class="layout-main">
+            <div class="layout-main-inner">
+                <section class="page">
+                    <div class="article" itemscope itemtype="https://schema.org/Article">
+    <nav class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+                        <div class="breadcrumbs-i" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="http://shop335836.horoshop.ua/ru/"><span
+                        itemprop="name">Главная</span></a>
+            <meta itemprop="position" content="1">
+                            <svg class="icon icon--breadcrumbs-arrow"><use xlink:href="#icon-breadcrumbs-arrow"></use></svg>
+            
+        </div>
+                    <div class="breadcrumbs-i" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="http://shop335836.horoshop.ua/ru/blog/"><span
+                        itemprop="name">Блог</span></a>
+            <meta itemprop="position" content="2">
+                            <svg class="icon icon--breadcrumbs-arrow"><use xlink:href="#icon-breadcrumbs-arrow"></use></svg>
+            
+        </div>
+                        <div class="breadcrumbs-i" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <span itemprop="item" content="http://shop335836.horoshop.ua/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/"><span
+                    itemprop="name">Чек-лист: что нужно проверить перед подключением домена</span></span>
+            <meta itemprop="position" content="3">
+        </div>
+    </nav>    <h1 class="main-h" itemprop="headline">Чек-лист: что нужно проверить перед подключением домена</h1>
+<div class="article__meta">
+    <meta itemprop="mainEntityOfPage" content="http://shop335836.horoshop.ua/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/">
+    <meta itemprop="author" content="Злий Борсук">
+
+    <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="Злий Борсук">
+        <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="http://shop335836.horoshop.ua/content/images/2/62133988145328.jpg">
+            <meta itemprop="width" content="">
+            <meta itemprop="height" content="">
+          </span>
+    </span>
+
+    <div class="article__meta-item">26 мая 2022</div>
+    <meta itemprop="datePublished" content="2022-05-26T00:00:00+03:00"/>
+    <meta itemprop="dateModified" content="2022-05-26T00:00:00+03:00"/>
+                            <div class="article__meta-item j-comments-count-container" style="display:none">
+            <a class="link link--pseudo" href="/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/#comments-container">
+                <span class="link__icon">
+                    <svg class="icon icon--comments"><use xlink:href="#icon-comments"></use></svg>
+                </span>
+                <span class="link__text j-comments-count-text">0 комментариев</span>
+            </a>
+        </div>
+    </div>
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      var commentsCounterUpdate = function (status, response) {
+        if (status === 'OK') {
+          var text = getCountText(response.comments_count, l10n("комментарий"), l10n("комментария"), l10n("комментариев"));
+          $('.j-comments-count-text').html(response.comments_count + ' ' + text);
+          if (response.comments_count) {
+            $('.j-comments-count-container').show();
+          } else {
+            $('.j-comments-count-container').hide();
+          }
+        }
+      };
+      AjaxComments && AjaxComments.getInstance() && AjaxComments.getInstance().attachEventHandlers({
+        'afterSubmit' : commentsCounterUpdate,
+        'afterReply'  : commentsCounterUpdate
+      });
+    }, w.AjaxComments)
+  })(window);
+</script>
+    <div class="article__cover article__cover--wide" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+        <img alt='Чек-лист: что нужно проверить перед подключением домена фото' title=''  class='article__cover-img' width='1200' height='400' src='/content/images/36/1200x400e80nn0/macbook-polnostu-novyy-komputer-ot-apple-49117614927244.jpg' >        <meta itemprop="contentUrl url" content="/content/images/36/macbook-polnostu-novyy-komputer-ot-apple-49117614927244.jpg">
+                    <meta itemprop="width" content="1200">
+            <meta itemprop="height" content="400">
+            </div>
+
+<div class="article-text  __fullWidth text">
+    <p>При подключении рабочего домена к сайту удаляется тестовый домен, снимается блокировка индексации сайта. Сайт становится доступным для поисковых роботов и посетителей из поисковых систем. Поэтому важно убедиться в корректности всех базовых настроек сайта.</p>
+
+<p><b>Внимание:</b> если вы настраивали интеграцию с какой-либо системой до подключения рабочего домена, то после его подключения нужно изменить ссылку на сайт в системе, с которой интегрировали сайт.</p>
+
+<h2 data-post-processed="true" id="--">Подключение нового домена</h2>
+
+<h3 data-post-processed="true" id="--">Контент по умолчанию</h3>
+
+<p>В некоторых блоках может оставаться контент, который был там по умолчанию. Например, надпись &laquo;Демонстрационный интернет-магазин&raquo;. Поменять такую информацию можно во вкладке <b>Настройки &rarr; Общие настройки &rarr; Информация о магазине</b>. Также проверьте контактную информацию (номер телефона, адрес, метку на карте).</p>
+
+<h3 data-post-processed="true" id="-">Языковые версии</h3>
+
+<p>Если ваш сайт доступен более чем на одном языке, убедитесь, что контент заполнен на всех языках. Если есть неиспользуемые языковые версии, их лучше отключить. В будущем их можно будет активировать в панели управления.</p>
+
+<p>Для включения/выключения языковых версий обратитесь в поддержку.</p>
+
+<h3 data-post-processed="true" id="-">Доставка, оплата</h3>
+
+<p>Убедитесь, что варианты оплаты и доставки настроены корректно. Эти настройки производятся в разделах <b>Настройки &rarr; Варианты оплаты</b> и <b>Настройки &rarr; Варианты доставки</b>.</p>
+
+<h3 data-post-processed="true" id="h_40f3aa0809">Гиперссылки</h3>
+
+<p>Убедитесь, что ссылки в описании товара, блоге и т.д. не ведут на тестовый сайт (<a href="http://shop12345.horoshop.ua/" rel="nofollow noopener noreferrer" target="_blank">http://shop12345.horoshop.ua/</a>). Мы рекомендуем использовать относительные ссылки, которые ведут отсчет от корня сайта и не содержат домен. Например: /catalog/xiaomi-mi-a1</p>
+
+<h3 data-post-processed="true" id="h_a90fafc8fd">Соцсети</h3>
+
+<p>Добавьте ссылки на актуальные страницы ваших соцсетей. Если таких нет &mdash; отключите отображение иконок на сайте.</p>
+
+<h3 data-post-processed="true" id="email">Email</h3>
+
+<p>В разделе <b>Настройки &rarr; Общие настройки &rarr; Настройка Email </b>укажите адрес для отправки писем с сайта. Это может быть почта только на отправку, которая не требует сложных настроек. Если планируете получать обратную связь от клиентов, то в поле <b>Email reply-to для заказов</b> укажите рабочий email, который может отличаться от <b>Email отправителя</b>.</p>
+
+<h3 data-post-processed="true" id="-">Оповещения администраторам</h3>
+
+<p>Чтобы получать уведомления на почту о событиях на сайте (заказы, комментарии и т.д.), укажите почтовый адрес в настройках администраторов &mdash; раздел <b>Настройки &rarr; Админы</b>.</p>
+
+<p>&nbsp;</p>
+
+<h2 data-post-processed="true" id="----">Перенос домена с работающего сайта</h2>
+
+<p>Если вы переносите на Хорошоп домен своего старого сайта, который уже работает и проиндексирован в поисковых системах, то до переключения домена, кроме пунктов указанных выше, необходимо обратить внимание на:</p>
+
+<h3 data-post-processed="true" id="-">Перенос контента</h3>
+
+<p>Убедитесь, что вы перенесли весь необходимый контент со страниц старого сайта. Проверьте корректность отображения информации о товарах: разделы каталога, в которых размещены товары, наличие фотографий и корректных описаний, алиасы товарных страниц.</p>
+
+<p>Проверьте перенос информации со служебных страниц &mdash; О нас, Оплата и Доставка и других текстовых страниц, которые были на вашем старом сайте.</p>
+
+<h3 data-post-processed="true" id="-url--">Структура url основных страниц</h3>
+
+<p>Если вы хотите сохранить структуру формирования url старого сайта, составьте список шаблонов по которым формировались ссылки ключевых страниц, а именно:</p>
+
+<ul>
+	<li>
+	<p>страницы основных категории;</p>
+	</li>
+	<li>
+	<p>страницы категорий второго уровня;</p>
+	</li>
+	<li>
+	<p>страницы товаров;</p>
+	</li>
+	<li>
+	<p>текстовые страницы;</p>
+	</li>
+	<li>
+	<p>страницы блога&nbsp;</p>
+	</li>
+	<li>
+	<p>другие значимые страницы.&nbsp;</p>
+	</li>
+</ul>
+
+<p>Для настройки структуры url обратитесь в поддержку, предоставив список этих шаблонов.</p>
+
+<p><b>Внимание:</b> не всегда возможности платформы позволяют полностью воспроизвести структуру ваших старых ссылок. В таком случае необходимо настроить редиректы &mdash; перенаправить посетителей на новые страницы, когда они пытаются перейти по старым адресам.</p>
+
+<h3 data-post-processed="true" id="----">Настройка редиректов со старых страниц&nbsp;</h3>
+
+<p>Если необходимо настроить редиректы со старых url сайта на новые, воспользуйтесь функцией Импорт редиректов.&nbsp;</p>
+
+<p>Для этого предварительно необходимо подготовить таблицу с двумя колонками: старая ссылка, новая ссылка,&nbsp;</p>
+
+<p><i>Например, на старом сайте у вас была ссылка <a href="http://domen.com.ua/category/nazvanie-razdela," rel="nofollow noopener noreferrer" target="_blank">domen.com.ua/category/nazvanie-razdela,</a> на новом сайте такой ссылки не будет, а страница будет находиться по новой ссылке <a href="http://domen.com.ua/nazvanie-razdela" rel="nofollow noopener noreferrer" target="_blank">domen.com.ua/nazvanie-razdela.</a> В таблице это должно быть оформлено следующим образом:</i></p>
+
+<p><img loading="lazy" src="https://downloads.intercomcdn.com/i/o/548027968/face40a4e0af1a97c34fe9b7/image.png" /></p>
+
+<p>До переключения домена загрузите таблицу редиректов в разделе <b>Утилиты &rarr; Редиректы ссылок &rarr; Импорт редиректов</b>.</p>
+
+<h3 data-post-processed="true" id="--">Почта на домене</h3>
+
+<p>Хостинг Хорошопа не поддерживает услуги почтового сервера. Если ранее у вас были настроены почтовые адреса на рабочем домене, вам необходимо будет сохранить сторонний хостинг c минимальным пакетом для поддержания работы email адресов на домене.</p>
+
+<p>Если вы обращайтесь в поддержку с просьбой подключить домен, обязательно сообщите о том, что на домене настроена почта.</p>
+
+<p>&nbsp;</p>
+
+<h2 data-post-processed="true" id="------">Что надо проверить перед запуском магазина</h2>
+
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="400" loading="lazy" src="https://www.youtube.com/embed/d1MCnrljZZk" title="YouTube video player" width="800"></iframe></p>
+</div>
+            <div class="likely">
+                    <div class="facebook ">Поделиться</div>
+                    <div class="twitter ">Твитнуть</div>
+                    <div class="whatsapp ">Поделится</div>
+            </div>    
+        <div class="reviews " id="comments-container">
+    <div class="h2 j-comment-header"  style="display: none">Обсуждение</div>
+
+    <div class="p-review" id="uidfdbfe5c1048f78d8a06ce88704fd986d">
+            </div>
+    
+
+    <div class="p-review-add">
+    <form id="form-uidf934c69d0f924b584c0897a605821a48" data-action="/ru/_widget/ajax_comments/submit/">
+        <div class="p-review-add__heading">
+            <div class="h2">Новый комментарий</div>
+        </div>
+        <div class="p-review-add__body">
+            <div class="p-review-add__photo j-avatar-container">
+                                    <svg class="icon-avatar-def"><use xlink:href="#icon-avatar-def"></use></svg>
+                
+            </div>
+            <div class="p-review-add__form">
+                <div class="p-review-add__form-column p-review-add__form-column--inputs">
+                    <div class="p-review-add__form-item">
+                        <input class="field" type="text" name="form[title]" placeholder="Имя и фамилия" value="" >
+                    </div>
+                    <div class="p-review-add__form-item">
+                        <input
+                            class="field"
+                            type="email"
+                            name="form[email]"
+                            autocapitalize="off"
+                            placeholder="Эл. почта"
+                            value=""
+                                                    >
+                    </div>
+                </div>
+                                    <div class="p-review-add__form-column p-review-add__form-column--auth j-destroy">
+                        <div class="socLogin">
+    <div class="socLogin-h">Войти с помощью</div>
+    <div class="socLogin-b">
+                                                <a rel="nofollow"
+                   data-fake-href="/ru/security/OAuthRedirect/?soc=facebook&saveCart=0"
+                   onclick="OAuth.setScenario('default'); showPopup(this.href, 997, 490); return false;"
+                   class="socialIcon">
+                    <svg class="icon icon--fb">
+                        <use xlink:href="#icon-fb"></use>
+                    </svg>
+                </a>
+                                                                                                <a rel="nofollow"
+                   data-fake-href="/ru/security/OAuthRedirect/?soc=google&saveCart=0"
+                   onclick="OAuth.setScenario('default'); showPopup(this.href, 997, 490); return false;"
+                   class="socialIcon">
+                    <svg class="icon icon--gp">
+                        <use xlink:href="#icon-gp"></use>
+                    </svg>
+                </a>
+                                    </div>
+</div>                    </div>
+                                <div class="p-review-add__form-item">
+                    <textarea class="field __text" name="form[text]" placeholder="Сообщение"></textarea>
+                </div>
+                <div class="p-review-add__form-item">
+                    <span class="btn __special">
+                        <span class="btn-content">Отправить</span>
+                        <input class="btn-input" type="submit" value="Отправить">
+                    </span>
+                </div>
+            </div>
+        </div>
+        <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("d27650a2a010ffd1a6f7b77c15225cc50fafa962");$("#form-uidf934c69d0f924b584c0897a605821a48").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script>    </form>
+</div>
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      var object = AjaxComments.getInstance("fe6187b66dbc94d5ad1e33469a73cb6a"),
+          form = $("#form-uidf934c69d0f924b584c0897a605821a48");
+      object.initForm(form);
+      OAuth.addScenario('commentsSignUp', new OAuthScenario({
+        'afterScenario' : function () {
+          OAuth.setScenario('default');
+        },
+        'OAuthError' : function () {
+          zteel_set_message(l10n("При авторизации через соц. сеть произошла ошибка. Пожалуйста повторите попытку позже."), 'error', '#comments-form-errors', true);
+        },
+        'OAuthSuccess' : function (userData) {
+          object.container.find('.j-destroy').remove();
+          AjaxCart.getInstance() && AjaxCart.getInstance().Cart.reload();
+
+          var title = object.container.find('[name="form[title]"]').errorBox(),
+              email = object.container.find('[name="form[email]"]').errorBox();
+
+          title.val(userData.title).prop('disabled', true).attr('disabled', 'disabled');
+          email.val(userData.email).prop('disabled', true).attr('disabled', 'disabled');
+          form.find('[name="form[text]"]').focus();
+
+          if (userData.avatar) {
+            object.container.find('.j-avatar-container').html('<img src="' + userData.avatar + '" alt="">');
+          }
+        }
+      }));
+
+      FakeHrefDirector.init();
+    }, w.AjaxComments)
+  })(window);
+</script></div>
+
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      var showMoreButton = $("#uidfdbfe5c1048f78d8a06ce88704fd986d_showMore");
+      var instance = AjaxComments.getInstance("fe6187b66dbc94d5ad1e33469a73cb6a", '#comments-container');
+      instance.initComments("#uidfdbfe5c1048f78d8a06ce88704fd986d", showMoreButton);
+      instance.attachEventHandlers({
+        'afterLoadComments' : function (status, response) {
+          if (status === 'OK' && response.show_more) {
+            showMoreButton.find('.j-text').html(l10n("Еще {COUNT} {REVIEWS}", {
+              '{COUNT}' : response.count_next,
+              '{REVIEWS}' : getCountText(response.count_next, l10n("комментарий"), l10n("комментария"), l10n("комментариев"))
+            }));
+          }
+        },
+        'onCommentSuccess' : function () {
+          this.container.find('.j-comment-header').show();
+        }
+      });
+    }, w.AjaxComments)
+  })(window);
+</script></div>                </section>
+            </div>
+        </div>
+        <aside class="layout-aside">
+    <div class="layout-aside-inner">
+        <nav class="sideMenu ">
+            <ul class="sideMenu-list">
+
+                                    <li class="sideMenu-i">
+                        <div class="sideMenu-t"><a class="sideMenu-a" href="/ru/pro-nas/">О нас</a></div>
+                                            </li>
+                                    <li class="sideMenu-i">
+                        <div class="sideMenu-t"><a class="sideMenu-a" href="/ru/oplata-i-dostavka/">Оплата и доставка</a></div>
+                                            </li>
+                                    <li class="sideMenu-i">
+                        <div class="sideMenu-t"><a class="sideMenu-a" href="/ru/obmin-ta-povernennya/">Обмен и возврат</a></div>
+                                            </li>
+                                    <li class="sideMenu-i">
+                        <div class="sideMenu-t"><a class="sideMenu-a" href="/ru/kontaktna-informatsiya/">Контактная информация</a></div>
+                                            </li>
+                                    <li class="sideMenu-i">
+                        <div class="sideMenu-t"><a class="sideMenu-a" href="/ru/optovym-kliientam/">Оптовым клиентам</a></div>
+                                            </li>
+                
+            </ul>
+        </nav>
+    </div>
+</aside>    </div>
+</div>
+    <div class="baseboard">
+        <div class="wrapper">
+            <section class="entries">
+                <div class="h2"><a href="/ru/blog/">Другие записи</a></div>
+                <div class="carousel">
+                    <div class="entries-container">
+                        <ul class="entries-list __4to6">
+                            <!--
+                                                    --><li class="entries-i">
+                                <div class="entries-i-wrap">
+                                    <div class="entries-i-image"><a href="/ru/osnovni-etapi-zapusku-internet-magazinu/">
+                                                                                            <img alt='Основные этапы запуска сайта фото' title=''  class='entries-i-img' width='300' height='200' src='/content/images/35/300x200e80nn0/osnovni-etapi-zapusku-internet-magazinu-61765315340582.jpg' >                                                                                    </a></div>
+                                    <div class="entries-i-date">12 мая 2022</div>
+                                    <div class="entries-i-title"><a class="a" href="/ru/osnovni-etapi-zapusku-internet-magazinu/">
+                                                                                        <span class="a-link">Основные этапы запуска сайта</span>
+                                        </a></div>
+                                </div>
+                            </li><!--
+                                                    --><li class="entries-i">
+                                <div class="entries-i-wrap">
+                                    <div class="entries-i-image"><a href="/ru/zavantazhennya-logotipu/">
+                                                                                            <img alt='Загрузка логотипа фото' title=''  class='entries-i-img' width='300' height='200' src='/content/images/34/300x200e80nn0/zavantazhennya-logotipu-85578683400689.jpg' >                                                                                    </a></div>
+                                    <div class="entries-i-date">24 апреля 2022</div>
+                                    <div class="entries-i-title"><a class="a" href="/ru/zavantazhennya-logotipu/">
+                                                                                            <span class="titleTag __promo">Акция</span>
+                                                                                        <span class="a-link">Загрузка логотипа</span>
+                                        </a></div>
+                                </div>
+                            </li><!--
+                                                    --><li class="entries-i">
+                                <div class="entries-i-wrap">
+                                    <div class="entries-i-image"><a href="/ru/pidkazki-dlya-kharakteristik/">
+                                                                                            <img alt='Подсказки для характеристик фото' title=''  class='entries-i-img' width='300' height='200' src='/content/images/37/300x200e80nn0/pidkazki-dlya-kharakteristik-43548241288961.jpg' >                                                                                    </a></div>
+                                    <div class="entries-i-date">14 апреля 2022</div>
+                                    <div class="entries-i-title"><a class="a" href="/ru/pidkazki-dlya-kharakteristik/">
+                                                                                        <span class="a-link">Подсказки для характеристик</span>
+                                        </a></div>
+                                </div>
+                            </li><!--
+                                                -->
+                        </ul>
+                    </div>
+                    <div class="carousel-btn carousel-btn--prev j-carousel-btn-prev"></div>
+                    <div class="carousel-btn carousel-btn--next j-carousel-btn-next"></div>
+                </div>
+            </section>
+        </div>
+    </div>        </main>
+        <footer class="footer">
+    <div class="footer__container">
+        <div class="footer__wrapper wrapper">
+            <div class="footer__columns">
+                                    <div class="footer__col footer__col--double">
+                        <div class="footer__col-wrap">
+                                                            <div class="footer__logo">
+                    <a class="footer__logo-link" href='/ru/'>
+                <img alt='Злий Борсук - Производитель военного снаряжения'  class='footer__logo-img' width='100' height='100' src='/content/images/2/100x100l90nn0/68078409992208.jpg'  srcset="
+                                /content/images/2/100x100l90nn0/68078409992208.jpg 1x,
+                                /content/images/2/200x200l90nn0/68078409992208.jpg 2x
+                                ">            </a>
+            </div>                                                            <div class="footer__block">
+        Принимаем к оплате        <div class="footer__payment">
+                                                <a href="https://www.liqpay.ua" target="_blank" rel="nofollow"
+                       class="footer__payment-item"><img alt='Принимаем оплату Visa/Mastercard через Liqpay'  width='88' height='20' src='/content/images/50/88x20l80nn0/34905029336611.jpg' ></a>
+                                    </div>
+    </div>                                                            <div class="footer__copyright">
+    © 2024</div>                                                            <div class="footer__mobile-version">
+    <a href="http://shop335836.horoshop.ua/ru/chek-list-shcho-potribno-pereviriti-pered-pidkluchennyam-domenu/.?v=mobile" class="footer__link" rel="nofollow">
+        <svg class="icon icon--mobile"><use xlink:href="#icon-mobile"></use></svg>
+        Мобильная версия    </a>
+</div>                                                            <div class="footer__development footer__development--text-link">
+    <div class="footer__development-container">
+        <a href="https://horoshop.ua" class="footer__development-link" target="_blank">
+            Работает на платформе Хорошоп        </a>
+        <div class="footer__development-logo">
+            <svg class="icon icon--dev" role="img">
+                <use xlink:href="#icon-horoshop"></use>
+            </svg>
+        </div>
+    </div>
+</div>                                                    </div>
+                    </div>
+                                                                    <div class="footer__col footer__col--double">
+                        <div class="footer__col-wrap">
+                                                            <div class="footer__block">
+    <div class="footer__heading">Клиентам</div>
+    <ul class="footer__menu">
+        <li class="footer__menu-item "><a href="#" class="footer__link"  data-modal="#sign-in">Вход в личный кабинет</a></li><li class="footer__menu-item "><a href="/ru/pro-nas/" class="footer__link">О нас</a></li><li class="footer__menu-item "><a href="/ru/oplata-i-dostavka/" class="footer__link">Оплата и доставка</a></li><li class="footer__menu-item "><a href="/ru/obmin-ta-povernennya/" class="footer__link">Обмен и возврат</a></li><li class="footer__menu-item "><a href="/ru/kontaktna-informatsiya/" class="footer__link">Контактная информация</a></li><li class="footer__menu-item "><a href="/ru/optovym-kliientam/" class="footer__link">Оптовым клиентам</a></li>    </ul></div>                                                    </div>
+                    </div>
+                                                                    <div class="footer__col footer__col--double">
+                        <div class="footer__col-wrap">
+                                                            <div class="footer__heading">Контактная информация</div>
+<div class="footer__contacts footer__contacts--columns">
+    <div class="footer__contacts-group">
+                    <svg class="icon icon--phone">
+                <use xlink:href="#icon-phone"></use>
+            </svg>
+                            <div class="footer__contacts-item">
+                                <a data-fake-href="tel:%2B380440000000" class="footer__contacts-item-link j-phone-item"
+                   data-index="1">
+                    044 000-00-00                </a>
+            </div>
+                    <div class="footer__contacts-item">
+                                <a data-fake-href="tel:%2B380950000000" class="footer__contacts-item-link j-phone-item"
+                   data-index="2">
+                    095 000-00-00                </a>
+            </div>
+                            <a class="footer__link" href="#" data-modal="#call-me">Перезвонить вам?</a>
+                        </div>
+    <div class="footer__contacts-group">
+                                    <div class="footer__contacts-item">
+                                            <svg class="icon icon--viber">
+                            <use xlink:href="#icon-viber"></use>
+                        </svg>
+                                        <a data-fake-href="viber://chat?number=%2B380950000000" class="footer__link">
+                        095 000-00-00                    </a>
+                </div>
+                                                        <div class="footer__contacts-item">
+                                            <svg class="icon icon--whatsapp">
+                            <use xlink:href="#icon-whatsapp"></use>
+                        </svg>
+                                        <a data-fake-href="https://api.whatsapp.com/send?phone=whats-app" class="footer__link">
+                        whats-app                    </a>
+                </div>
+                                                        <div class="footer__contacts-item">
+                                            <svg class="icon icon--telegram">
+                            <use xlink:href="#icon-telegram"></use>
+                        </svg>
+                                        <a data-fake-href="tg://resolve?domain=telegram" class="footer__link">
+                        telegram                    </a>
+                </div>
+                                                        <div class="footer__contacts-item">
+                                            <svg class="icon icon--skype">
+                            <use xlink:href="#icon-skype"></use>
+                        </svg>
+                                        <a data-fake-href="skype:skype?call" class="footer__link">
+                        skype                    </a>
+                </div>
+                                                        <div class="footer__contacts-item">
+                                            <svg class="icon icon--email">
+                            <use xlink:href="#icon-email"></use>
+                        </svg>
+                                        <a data-fake-href="mailto:mail%40mail.com" class="footer__link">
+                        mail@mail.com                    </a>
+                </div>
+                        </div></div>                                                    </div>
+                    </div>
+                                            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="upButton" id="upButton">
+    <a class="upButton-btn" href="#">
+        <span class="upButton-btn__hint">Наверх</span>
+        <svg class="icon icon--arrow-up"><use xlink:href="#icon-arrow-up"></use></svg>
+    </a>
+</div>
+    </div>
+        <section id="sign-in" class="popup __login" style="display: none;">
+        <div class="popup-block login">
+            <a class="popup-close" onclick="Modal.close();" href="javascript:;">
+                <svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg>
+            </a>
+            <div class="login-header">
+                <div class="login-tabs j-auth-tabs">
+                    <a href="#j-popup-tab-auth" class="login-tabs-i __active">
+                        <span class="login-tabs-txt">Вход</span>
+                    </a>
+                    <a href="#j-popup-tab-signup" class="login-tabs-i">
+                        <span class="login-tabs-txt">Регистрация</span>
+                    </a>
+                </div>
+                <div class="socLogin">
+    <div class="socLogin-h">Войти с помощью</div>
+    <div class="socLogin-b">
+                                                <a rel="nofollow"
+                   data-fake-href="/ru/security/OAuthRedirect/?soc=facebook&saveCart=0"
+                   onclick="OAuth.setScenario('default'); showPopup(this.href, 997, 490); return false;"
+                   class="socialIcon">
+                    <svg class="icon icon--fb">
+                        <use xlink:href="#icon-fb"></use>
+                    </svg>
+                </a>
+                                                                                                <a rel="nofollow"
+                   data-fake-href="/ru/security/OAuthRedirect/?soc=google&saveCart=0"
+                   onclick="OAuth.setScenario('default'); showPopup(this.href, 997, 490); return false;"
+                   class="socialIcon">
+                    <svg class="icon icon--gp">
+                        <use xlink:href="#icon-gp"></use>
+                    </svg>
+                </a>
+                                    </div>
+</div>            </div>
+            <div class="login-body">
+                <div class="login-tabs-content" data-content-id="j-popup-tab-auth">
+                    <form method="post" id="login_form_id" data-action="/ru/security/login/" onsubmit="submit_authorization(this); return false;">
+    <div class="j-login-info-message"></div>
+    <dl class="form">
+        <dt class="form-head">Эл. почта</dt>
+        <dd class="form-item">
+            <input type="email" name="user[email]" class="field j-focus" tabindex="1" autocapitalize="off">
+        </dd>
+        <dt class="form-head">Пароль</dt>
+        <dd class="form-item">
+            <input type="password" name="user[pass]" class="field" tabindex="2">
+        </dd>
+        <dd class="form-item __submit">
+            <span class="btn __special">
+                <span class="btn-content">Войти</span>
+                <input type="submit" value="Войти" class="btn-input" tabindex="3">
+            </span>
+            <span class="form-passRecover">
+                <a
+                    href="javascript:void(0);"
+                    class="a-pseudo"
+                    data-modal="#password-recovery"
+                >
+                    Забыли пароль?                </a>
+            </span>
+        </dd>
+    </dl>
+    <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("74adc7e53eec28d2bb50254e8d05967613389e14");$("#login_form_id").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script></form>                </div>
+                <div class="login-tabs-content" data-content-id="j-popup-tab-signup">
+                    <form method="post" id="signup-form" data-action="/ru/security/sign_up/" onsubmit="submit_new_registration(this); return false;" novalidate>
+    <div class="j-signup-info-message"></div>
+    <dl class="form">
+        <dt class="form-head __name">Имя и фамилия</dt>
+        <dd class="form-item">
+            <input type="text" name="user[title]" class="field" value="" tabindex="1">
+        </dd>
+        <dt class="form-head">Эл. почта</dt>
+        <dd class="form-item">
+            <input type="text" autocapitalize="off" name="user[email]" class="field" value="" tabindex="2">
+        </dd>
+                <dt class="form-head">Пароль</dt>
+        <dd class="form-item">
+            <input type="password" name="user[pass]" class="field" value="" tabindex="3">
+        </dd>
+                <dd class="form-item __submit">
+                                    <span class="btn __special j-submit ">
+                <span class="btn-content">Зарегистрироваться</span>
+                <input type="submit" value="Зарегистрироваться" class="btn-input" tabindex="7">
+            </span>
+                                                </dd>
+    </dl>
+    <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("73de699d981274fbfeeca11ef3bad2271902ec3b");$("#signup-form").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script></form>
+
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+          }, w.Face)
+  })(window);
+</script>
+                </div>
+            </div>
+        </div>
+        <script>
+          (function (w) {
+            w.INIT.add(function () {
+              initTabs('#sign-in .j-auth-tabs a', {
+                onChange: function (currentBtn, currentTabContainer, tabContainers) {
+                  $(tabContainers).find('.popup-msg').empty();
+                  $(tabContainers).find('form').reset();
+                  $(currentTabContainer).find(':input').errorBox().filter(':first').focus();
+                }
+              });
+            }, w.initTabs)
+          })(window);
+        </script>
+    </section>
+
+    <section id="password-recovery" class="popup __password" style="display: none;">
+        <div class="popup-block login">
+            <a class="popup-close" onclick="Modal.close();" href="javascript:;">
+                <svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg>
+            </a>
+            <div class="popup-header">
+                <div class="popup-title">Восстановление пароля</div>
+            </div>
+            <div class="popup-body">
+                <div class="popup-msg j-recovery-message">
+                    Введите адрес электронной почты, который вы указывали при регистрации. Мы отправим письмо с информацией для восстановления пароля.                </div>
+                <form id="password-recovery-form" method="post"
+      data-action="/ru/security/password-recovery/"
+      onsubmit="password_recovery_submit(this); return false;">
+    <dl class="form">
+        <dt class="form-head">Эл. почта</dt>
+        <dd class="form-item">
+            <input type="email" autocapitalize="off" value="" class="field j-focus" name="user[email]">
+        </dd>
+        <dd class="form-item __submit">
+                            <span class="btn __special">
+                                <span class="btn-content">Восстановить</span>
+                                <input type="submit" value="Восстановить" class="btn-input">
+                            </span>
+        </dd>
+    </dl>
+    <script>(function(w) {w.INIT.add(function() {(function ($) {var i=$('<input>').attr({name:"CSRFToken",type:'hidden'}).val("be1ae6a808a0e715110619afe1855f5b00b0d979");$("#password-recovery-form").append(i);})(jQuery)}, 'jQuery' in window)})(window)</script></form>            </div>
+        </div>
+    </section>
+            <div id="modal-overlay" class="overlay"></div>
+    <script src='/bundles/default/production/main-2b4841d6.d2f14e0390f66b94a2b1.js'></script>
+<script src='/bundles/default/production/runtime.81af93c644b99b99d27e.js'></script>
+<script src='/bundles/default/production/npm.spritespin.ae06fb361a59b14f6252.js'></script>
+<script src='/bundles/default/production/npm.inputmask.711c890d9833df84dc83.js'></script>
+<script src='/bundles/default/production/npm.jquery-13d81934.3f02b0283ddee7920906.js'></script>
+<script src='/bundles/default/production/npm.sticky-sidebar.9b1aed998b438a0502a9.js'></script>
+<script src='/bundles/default/production/npm.sourcebuster.190de06c3cb5f9541d9a.js'></script>
+<script src='/bundles/default/production/npm.popper.js.46626cd1331d2ebd1e93.js'></script>
+<script src='/bundles/default/production/npm.css-element-queries.e72e021709f421f869d0.js'></script>
+<script src='/bundles/default/production/main-44867c3a.6bc16e180baeaa05e8e0.js'></script>
+<script src='/bundles/default/production/main-e498c03b.e99d23ecfb4276b4b94f.js'></script>
+<script src='/bundles/default/production/main-12f89153.c4078d0f6e3f24171a12.js'></script>
+<script src='/bundles/default/production/main-2d8f051b.95225d1c6f77100fe2c2.js'></script>
+<script src='/bundles/default/production/main-5ae6720c.ac7652bbe2552d46a5d5.js'></script>
+<script src='/bundles/default/production/main-886f090d.998d71870c275b9cbf2a.js'></script>
+<script src='/bundles/default/production/main-47f80845.cd90b100a18fced03795.js'></script>
+<script src='/bundles/default/production/npm.jquery-b59a2ec2.c32010b03ac8c4e981f5.js'></script>
+
+<script>
+  (function (w) {
+    w.INIT.execute();
+  })(window)
+</script>
+                        <section
+    id="cart"
+    class="popup __cart"
+    style="display: none;"
+>
+    <div class="popup-block">
+        <a class="popup-close" onclick="Modal.close(); return false;" href="javascript:;">
+            <svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg>
+        </a>
+        <div class="popup-title">Корзина</div>
+        <div class="cart">
+            <div class="cart-content">
+                <div class="loader-container j-cart-loader">
+                    <div class="loader-spinner loader-spinner--block"></div>
+                </div>
+                <table class="cart-items">
+                    <thead>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td class="cart-header">
+                            <div class="cart-header-b"><span
+                                        class="cart-header-content">Количество</span></div>
+                        </td>
+                        <td class="cart-header __cost">
+                            <div class="cart-header-b"><span
+                                        class="cart-header-content">Стоимость</span></div>
+                        </td>
+                    </tr>
+                    </thead>
+                                                                                <tfoot class="cart-foot">
+                                            <tr>
+                            <td class="cart-cell __image"></td>
+                            <td class="cart-cell" colspan="3">
+                                                                                                            <div class="cart-discount">
+                                            <div class="cart-discount-l">
+                                                <a
+                                                    class="link link--pseudo"
+                                                    href="javascript:"
+                                                    onclick="Modal.open('#sign-in'); return false;"
+                                                >
+                                                        <span class="link__text">
+                                                            Войти для отображения накопительной скидки                                                        </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                                                                                                                                                                                <div class="cart-discount">
+                                                <div class="cart-discount-l">
+                                                    <div class="cart-discount-info j-coupon-add-container">
+                                                        <a
+                                                            class="link link--pseudo j-coupon-add"
+                                                            href="#"
+                                                        >
+                                                            <span class="link__text">
+                                                        Есть скидка по купону?                                                    </span></a>
+                                                </div>
+                                                <div
+                                                    class="cart-discount-coupon j-coupon-add-form"
+                                                    style="display: none;"
+                                                >
+                                                    <div class="coupon">
+                                                        <div class="coupon-input">
+                                                            <input
+                                                                class="coupon-field field errorBox-popup j-coupon-input"
+                                                                value=""
+                                                                autocomplete="off"
+                                                                placeholder="код купона или сертификата"
+                                                                type="text"
+                                                            >
+                                                            <div class="coupon-cancel j-coupon-cancel">
+                                                                <svg class="icon icon--cross-bold"><use xlink:href="#icon-cross-bold"></use></svg>
+                                                            </div>
+                                                        </div>
+                                                        <div class="coupon-submit">
+                                                            <button class="btn __small j-coupon-submit">
+                                                                <span class="btn-content">ОК</span>
+                                                            </button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                                                </td>
+                        </tr>
+                                        <tr>
+                        <td class="cart-footer" colspan="4">
+                            <div class="cart-summary">
+                                <div class="cart-footer-h">Итого</div>
+                                <div class="cart-footer-b cart-cost">
+                                    0 грн                                </div>
+                            </div>
+                            <div class="cart-buttons">
+                                <div class="cart-btnBack">
+                                    <button
+                                        class="btn __clear"
+                                        onclick="Modal.close(); return false;"
+                                    >
+                                        <span class="btn-content">
+                                            <svg class="icon icon--arrow-left2"><use xlink:href="#icon-arrow-left2"></use></svg>
+                                            Вернуться к покупкам                                        </span>
+                                    </button>
+                                </div>
+                                <div class="cart-btnOrder">
+                                    <a
+                                        class="btn __special"
+                                        rel="nofollow"
+                                        href="/ru/checkout/"
+                                    >
+                                        <span class="btn-content">Оформить заказ</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    </tfoot>
+                </table>
+            </div>
+            <div class="j-cart-additional">
+                            </div>
+        </div>
+    </div>
+</section>
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      const ajaxCart = AjaxCart.getInstance();
+
+      ajaxCart.skin = "modal";
+      ajaxCart.remove_product_on_zero = true;
+    }, w.AjaxCart);
+  })(window);
+</script>            <section class="compare" id="uid47a8a61a4374bb75754fb5816d804e0a" style="display: none;">
+    <div class="compare-container">
+        <div class="compare-close j-close" role="button">
+            <svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg>
+        </div>
+        <div class="compare-header">
+            <div class="compare-header-wrp">
+                <div class="compare-h">Сравнение товаров</div>
+                <div class="compare-filter j-tabs"></div>
+            </div>
+        </div>
+        <div class="j-loader" style="position: absolute;top:55px;left:0;right:0;bottom:0; z-index: 1000; background: rgba(255,255,255,.5)"><div class="loader" style="width: 10px; height: 10px; position: absolute; top: 50%;left:50%;margin:-5px 0 0 -5px;"></div></div>
+        <div class="compare-body j-content"></div>
+    </div>
+</section>
+
+<script>
+  (function (w) {
+    w.INIT.add(function () {
+      ComparisonTable.createInstance("default", "#uid47a8a61a4374bb75754fb5816d804e0a");
+    }, w.ComparisonTable)
+  })(window);
+</script>        </body>
+<!-- Memory: 4 Мб -->
+</html><!-- 0.36s -->
