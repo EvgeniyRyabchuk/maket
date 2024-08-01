@@ -7,10 +7,20 @@
     background: #fff;
       /* changes */
     min-width: 100px;
-    width: 300px;
+    width: 31%;
     margin: 10px;
+   
+    /* flex-grow: 1; */
+  
 }
 
+.productsMenu-tabs-list {
+    display: flex; 
+    flex-wrap: wrap;
+    padding: 20px;
+    
+    /* justify-content: center; */
+}
 .productsMenu-submenu-w {
     width: auto !important;
 }
@@ -46,6 +56,8 @@
 
 .productsMenu-tabs-switch {
     position: relative;
+    width: auto;
+   
     /* changes */
     /* width: 210px; */
 }
@@ -69,6 +81,13 @@
     width: 24%
 }
 
+
+.productsMenu-submenu {
+    width: 1000px;
+}
+
+
+
 @media screen and (min-width: 1280px) {
     .categories-grid.__normalGrid .categories-unit {
         width: 19%
@@ -76,17 +95,89 @@
 
     .categories-grid.__fluidGrid {
         -moz-columns: 5;
-        columns: 5
+        columns: 5;
     }
 }
 
 @media screen and (min-width: 1440px) {
     .categories-grid.__normalGrid .categories-unit {
-        width: 16%
+        width: 16%;
     }
 
     .categories-grid.__fluidGrid {
         -moz-columns: 6;
-        columns: 6
+        columns: 6;
     }
 }
+
+
+.productsMenu-tabs-list__tab {
+    font-size: 16px;
+ 
+}
+
+.productsMenu-tabs-list__icon {
+    width: 70px;
+    height: 70px;
+}
+.productsMenu-tabs-list__icon img {
+    width: auto;
+    height: 70px;
+}
+
+.categories-unit-image img {
+    vertical-align: bottom;
+    height: 210px;
+}
+
+
+
+
+
+
+/*
+
+
+
+@media screen and (max-width: 1000px) {
+    .categories-grid.__normalGrid .categories-unit {
+        min-width: 100px; 
+        width: 33.3333333333%;
+    }
+    .container {
+        min-width: auto;
+    }
+    .layout-wrap {
+        min-width: auto;
+    }
+
+    .categories-grid {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+
+@media screen and (max-width: 700px) {
+    .categories-grid.__normalGrid .categories-unit {
+        width: 50%;
+    }
+    .layout-wrap {
+        padding: 0 0 0 20px;
+    }
+    .banners__wrapper .wrapper {
+        min-width: auto;
+    } 
+    .categories-grid.__normalGrid {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+
+} 
+
+*/
